@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=SbqXqQ-2ixs (video on the CPU)
 
 https://en.wikipedia.org/wiki/Neural\_processing\_unit (NPU)
 
-https://www.trgdatacenters.com/resource/best-cpu-for-ai/ (Covers why parallel processing is useful for AI) (TO READ)
+https://www.trgdatacenters.com/resource/best-cpu-for-ai/ (Covers why parallel processing is useful for AI)
 
 # CMOS
 
@@ -48,7 +48,7 @@ https://research.ibm.com/publications/memristor-based-computation-in-memory-arch
 
 https://open-neuromorphic.org/blog/truenorth-deep-dive-ibm-neuromorphic-chip-design/
 
-https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/ (TO READ)
+https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
 
 # NEUROMORPHIC
 
@@ -65,6 +65,12 @@ https://www.nature.com/articles/s41467-025-60818-x
 https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-from-planar-2D-to-vertical-3D-a-Neuron\_fig2\_320773162
 
 - SNN -> Neuromorphic Architecture figure
+
+https://www.nature.com/articles/s41586-024-08253-8 (probably the best overview overall)
+
+https://www.mdpi.com/2079-9268/15/2/16 (spintronic systems | we use graphene tubing(?))
+
+https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00631 (2 dimensional materials)
 
 # AI
 
