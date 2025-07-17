@@ -46,9 +46,10 @@ https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-comput
 
 https://research.ibm.com/publications/memristor-based-computation-in-memory-architecture-for-data-intensive-applications
 
-https://open-neuromorphic.org/blog/truenorth-deep-dive-ibm-neuromorphic-chip-design/
-
 https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
+
+https://www.nanowerk.com/memristor.php 
+- GOOD.
 
 # NEUROMORPHIC
 
@@ -66,11 +67,23 @@ https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-fr
 
 - SNN -> Neuromorphic Architecture figure
 
-https://www.nature.com/articles/s41586-024-08253-8 (probably the best overview overall)
+https://www.nature.com/articles/s41586-024-08253-8 
+- Report on the current scalability of Neurmorphic computing as a whole
 
-https://www.mdpi.com/2079-9268/15/2/16 (spintronic systems | we use graphene tubing(?))
+https://www.mdpi.com/2079-9268/15/2/16 
+- Spintronic memristive components
 
-https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00631 (2 dimensional materials)
+https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00631 
+- 2D dimensional materials for synaptic transistors/memristors (Mersham)
+
+https://open-neuromorphic.org/blog/truenorth-deep-dive-ibm-neuromorphic-chip-design/ 
+- IBM Truenorth article
+
+https://arxiv.org/abs/1911.02385 
+- Brief segment on SpiNNaker 2 (similar to IBM Truenorth)
+
+https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html 
+- Intel's loihi chip is a neuromorphic computer but i'm starting to notice an odd trend where all of the strongest neuromorphic chips are just traditional computers that are specialized in simulating SNNs.
 
 # AI
 
