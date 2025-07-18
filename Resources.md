@@ -85,6 +85,9 @@ https://arxiv.org/abs/1911.02385
 https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html 
 - Intel's loihi chip is a neuromorphic computer but i'm starting to notice an odd trend where all of the strongest neuromorphic chips are just traditional computers that are specialized in simulating SNNs.
 
+https://lcsr.jhu.edu/wp-content/uploads/2015/10/Adam-Gropp-nugget.pdf
+- John Hopkins IFAT (2010). Leaky fire and forget Mihalas-Niebur Neuron Model
+
 # AI
 
 https://www.britannica.com/technology/artificial-intelligence/
