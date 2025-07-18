@@ -4,7 +4,7 @@ Presented in the order I'd recommend learning about the topic of neuromorphic.
 
 # Electrical Engineering
 
-- Memristors are a type of electronic engineering. It's not used in the doc (yet) but I believe a basic background on circuitry helps recognize the memristor and neuromorphic system as a brand new and fundamentally different technology relative to processors of current computers.
+- Memristors are an electrical component like transistors, capacitors, resistors, etc. CMOS is primarily composed of the latter things while memristors are best served in neuromorphic chips dedicated to simulating leaky fire and forget artifical neurons.
 
 https://www.britannica.com/technology/transistor
 
@@ -32,21 +32,22 @@ https://www.trgdatacenters.com/resource/best-cpu-for-ai/ (Covers why parallel pr
 
 # CMOS
 
-- This is relevant given that neuromorphic systems rely primarily on the memristor. CMOS is the foundation of logic gates which are primarily used in Von Neumann Architecture. Neuromorphic systems and memristors do not use logic gates (not nearly as much) given their machine learning niche and how they manipulate electronic currents.
+- CMOS is a term for the standardized logic gates used in all computers. Non-temporal and generally best suited for boolean logic, a neuromorphic chip is likely supplemented by CMOS components for interfacing with a greater computer.
 
 https://en.wikipedia.org/wiki/CMOS
 
 https://www.electronicshub.org/cmos-technology/
 
 # SYNAPTIC TRANSISTORS
+- This is one of Mersham's developmental focuses. 
 
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
+
+https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
 
 # MEMRISTORS
 
 https://research.ibm.com/publications/memristor-based-computation-in-memory-architecture-for-data-intensive-applications
-
-https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
 
 https://www.nanowerk.com/memristor.php 
 - GOOD.
@@ -63,7 +64,7 @@ https://www.nature.com/articles/s41467-025-60818-x
 
 - ("Experimental demonstration of third-order memristor-based artificial sensory nervous system for neuro-inspired robotics)
 
-https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-from-planar-2D-to-vertical-3D-a-Neuron\_fig2\_320773162
+https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-from-planar-2D-to-vertical-3D-a-Neuron\
 
 - SNN -> Neuromorphic Architecture figure
 
