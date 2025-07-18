@@ -28,7 +28,8 @@ https://www.youtube.com/watch?v=SbqXqQ-2ixs (video on the CPU)
 
 https://en.wikipedia.org/wiki/Neural\_processing\_unit (NPU)
 
-https://www.trgdatacenters.com/resource/best-cpu-for-ai/ (Covers why parallel processing is useful for AI)
+https://www.trgdatacenters.com/resource/best-cpu-for-ai/ 
+- Covers the purpose of using parallelism for AI.
 
 # CMOS
 
@@ -39,7 +40,7 @@ https://en.wikipedia.org/wiki/CMOS
 https://www.electronicshub.org/cmos-technology/
 
 # SYNAPTIC TRANSISTORS
-- This is one of Mersham's developmental focuses. 
+- This is one of Mershan's developmental focuses. 
 
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
 
@@ -98,3 +99,8 @@ https://www.nasa.gov/what-is-artificial-intelligence/
 https://openai.com/index/infrastructure-for-deep-learning/
 
 https://cloud.google.com/learn/what-is-artificial-intelligence
+
+# MISC
+
+https://en.wikipedia.org/wiki/Computational_theory_of_mind
+- Theory that the human mind, cognition and conciousness, are a form of computation.
