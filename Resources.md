@@ -55,6 +55,9 @@ https://www.nanowerk.com/memristor.php
 
 # NEUROMORPHIC
 
+https://www.nature.com/articles/s41586-024-08253-8
+- Neuromorphic at scale
+- 
 https://www.ibm.com/think/topics/neuromorphic-computing
 
 https://www.nature.com/articles/s41699-024-00509-1/figures/1
