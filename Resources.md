@@ -40,7 +40,7 @@ https://en.wikipedia.org/wiki/CMOS
 https://www.electronicshub.org/cmos-technology/
 
 # SYNAPTIC TRANSISTORS
-- This is one of Mershan's developmental focuses. 
+- This is one of Hersam's developmental focuses. 
 
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
 
@@ -55,7 +55,7 @@ https://www.nanowerk.com/memristor.php
 
 # NEUROMORPHIC
 
-https://en.wikipedia.org/wiki/Neuromorphic\_computing#Neuromemristive\_systems
+https://www.ibm.com/think/topics/neuromorphic-computing
 
 https://www.nature.com/articles/s41699-024-00509-1/figures/1
 
