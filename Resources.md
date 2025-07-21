@@ -32,12 +32,17 @@ https://www.trgdatacenters.com/resource/best-cpu-for-ai/
 - Covers the purpose of using parallelism for AI.
 
 # CMOS
-
 - CMOS is a term for the standardized logic gates used in all computers. Non-temporal and generally best suited for boolean logic, a neuromorphic chip is likely supplemented by CMOS components for interfacing with a greater computer.
 
 https://en.wikipedia.org/wiki/CMOS
 
 https://www.electronicshub.org/cmos-technology/
+
+# Binary
+- Naturally, as most computers today are founded on binary hardware and software, this topic sees relevancy. Neuromorphic hardware and software isn't binary or instruction based. Most large neurmorphic computers may be based on CMOS but they are dedicated to simulating spike/event based computation rather than the typical "on/off" states.
+
+https://www.computerhope.com/jargon/b/binary.htm#work
+- Binary overview 
 
 # SYNAPTIC TRANSISTORS
 - This is one of Hersam's developmental focuses. 
@@ -57,7 +62,7 @@ https://www.nanowerk.com/memristor.php
 
 https://www.nature.com/articles/s41586-024-08253-8
 - Neuromorphic at scale
-- 
+
 https://www.ibm.com/think/topics/neuromorphic-computing
 
 https://www.nature.com/articles/s41699-024-00509-1/figures/1
@@ -71,9 +76,6 @@ https://www.nature.com/articles/s41467-025-60818-x
 https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-from-planar-2D-to-vertical-3D-a-Neuron\
 
 - SNN -> Neuromorphic Architecture figure
-
-https://www.nature.com/articles/s41586-024-08253-8 
-- Report on the current scalability of Neurmorphic computing as a whole
 
 https://www.mdpi.com/2079-9268/15/2/16 
 - Spintronic memristive components
