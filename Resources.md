@@ -17,43 +17,6 @@ https://openai.com/index/infrastructure-for-deep-learning/
 
 https://cloud.google.com/learn/what-is-artificial-intelligence
 
-# Electrical Engineering + Analog and Digital
-- There are several small things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
-
-https://bbkcollege.co.in/online/attendence/classnotes/files/1589204402.pdf
-- What are digital signals?
-
-https://educatecomputer.com/what-is-analog-signal/
-- What are analog signals?
-
-https://startingelectronics.org/what-is-a-transistor/#what-does-a-transistor-do
-- Relevant example of an electrical component. What is a transistor?
-
-https://www.britannica.com/technology/transistor
-- What is a transistor? - Britannica
-
-https://startingelectronics.org/transistor-history/#transistor-history-basics-what-is-a-transistor
-- Relevant example of an electrical component. The history of transistors.
-
-# SYNAPTIC TRANSISTORS
-- This is one of Hersam's developmental focuses. Neuromorphic is, originally, a computer archetecture innovation rather than all computing that is akin to the brain. IBM's Neuromorphic page mentions something similar to Synaptic Transistors. All in all it's just another artificial neuron type deal.
-
-https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
-
-https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
-
-# MEMRISTORS
-- Neurmorphic computing was originally a term for computer archetecture that used artificial neurons. Memristors are an electrical component that is suited for the analog electrical flow of "information".
-
-https://www.nanowerk.com/memristor.php 
-- Overview of memristors
-
-https://www.britannica.com/technology/memristor
-- Britannica definition
-
-https://research.ibm.com/publications/memristor-based-computation-in-memory-architecture-for-data-intensive-applications
-- IBM article on developing memristors
-
 # MACHINE LEARNING
 Neuromorphic computing is, essentially, the physical implementation of neural networks. Neural networks themselves a subset of machine learning.
 
@@ -104,6 +67,43 @@ https://arxiv.org/abs/1911.02385
 
 https://lcsr.jhu.edu/wp-content/uploads/2015/10/Adam-Gropp-nugget.pdf
 - John Hopkins IFAT (2010). Leaky fire and forget Mihalas-Niebur Neuron Model
+
+# Electrical Engineering + Analog and Digital
+- There are several small things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
+
+https://bbkcollege.co.in/online/attendence/classnotes/files/1589204402.pdf
+- What are digital signals?
+
+https://educatecomputer.com/what-is-analog-signal/
+- What are analog signals?
+
+https://startingelectronics.org/what-is-a-transistor/#what-does-a-transistor-do
+- Relevant example of an electrical component. What is a transistor?
+
+https://www.britannica.com/technology/transistor
+- What is a transistor? - Britannica
+
+https://startingelectronics.org/transistor-history/#transistor-history-basics-what-is-a-transistor
+- Relevant example of an electrical component. The history of transistors.
+
+# SYNAPTIC TRANSISTORS
+- This is one of Hersam's developmental focuses. Neuromorphic is, originally, a computer archetecture innovation rather than all computing that is akin to the brain. IBM's Neuromorphic page mentions something similar to Synaptic Transistors. All in all it's just another artificial neuron type deal.
+
+https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
+
+https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
+
+# MEMRISTORS
+- Neurmorphic computing was originally a term for computer archetecture that used artificial neurons. Memristors are an electrical component that is suited for the analog electrical flow of "information".
+
+https://www.nanowerk.com/memristor.php 
+- Overview of memristors
+
+https://www.britannica.com/technology/memristor
+- Britannica definition
+
+https://research.ibm.com/publications/memristor-based-computation-in-memory-architecture-for-data-intensive-applications
+- IBM article on developing memristors
 
 # CMOS
 - CMOS is a term for the standardized logic gates used in all computers. The term comes up in neuromorphic from time to time but it is not mutually exclusive with neuromorphic engineering. Neuromorphic computers such as Loihi use CMOS in its archetecture.
