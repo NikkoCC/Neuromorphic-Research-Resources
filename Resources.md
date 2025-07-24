@@ -1,57 +1,49 @@
 **Resources**
 
 Presented in the order I'd recommend learning about the topic of neuromorphic. Each sub topic is sorted by importance, top to bottom.
+Ideally you should only to read the first two resources to get an understanding of that topic and moving on.
 
-# Electrical Engineering
+# AI
+- AI is a massive field. Ai is a superset of machine learning. Machine learning is a superset of neural networks. So on and so forth. A good understanding of AI predicates a good understanding of neuromorphic.
 
-- Memristors are an electrical component like transistors, capacitors, resistors, etc. CMOS is primarily composed of the latter things while memristors are best served in neuromorphic chips dedicated to simulating leaky fire and forget artifical neurons.
+https://www.ibm.com/think/topics/artificial-intelligence
+- The best introduction page to AI among these.
+  
+https://www.britannica.com/technology/artificial-intelligence/
 
+https://www.nasa.gov/what-is-artificial-intelligence/
 
-https://startingelectronics.org/transistor-history/#transistor-history-basics-what-is-a-transistor
+https://openai.com/index/infrastructure-for-deep-learning/
 
-https://theengineeringmindset.com/ohms-law/
+https://cloud.google.com/learn/what-is-artificial-intelligence
+
+# Electrical Engineering + Analog and Digital
+- There are several small things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
+
+https://bbkcollege.co.in/online/attendence/classnotes/files/1589204402.pdf
+- What are digital signals?
+
+https://educatecomputer.com/what-is-analog-signal/
+- What are analog signals?
 
 https://startingelectronics.org/what-is-a-transistor/#what-does-a-transistor-do
+- Relevant example of an electrical component. What is a transistor?
 
 https://www.britannica.com/technology/transistor
+- What is a transistor? - Britannica
 
-https://www.britannica.com/technology/capacitor
-
-https://www.britannica.com/technology/resistor
-
-# CPUs GPUs NPUs and Parallel Processing
-
-https://parikshapatr.com/solutions/von-neumann-architecture-explained-in-detail
-
-https://www.youtube.com/watch?v=SbqXqQ-2ixs (video on the CPU)
-
-https://en.wikipedia.org/wiki/Neural\_processing\_unit (NPU)
-
-https://www.trgdatacenters.com/resource/best-cpu-for-ai/ 
-- Covers the purpose of using parallelism for AI.
-
-# CMOS
-- CMOS is a term for the standardized logic gates used in all computers. Non-temporal and generally best suited for boolean logic, a neuromorphic chip is likely supplemented by CMOS components for interfacing with a greater computer.
-
-https://www.electronicshub.org/cmos-technology/
-- CMOS overview.
-
-https://en.wikipedia.org/wiki/CMOS
-
-# Binary
-- Naturally, as most computers today are founded on binary hardware and software, this topic sees relevancy. Neuromorphic hardware and software isn't binary or instruction based. Most large neurmorphic computers may be based on CMOS but they are dedicated to simulating spike/event based computation rather than the typical "on/off" states.
-
-https://www.computerhope.com/jargon/b/binary.htm#work
-- Binary overview 
+https://startingelectronics.org/transistor-history/#transistor-history-basics-what-is-a-transistor
+- Relevant example of an electrical component. The history of transistors.
 
 # SYNAPTIC TRANSISTORS
-- This is one of Hersam's developmental focuses. 
+- This is one of Hersam's developmental focuses. Neuromorphic is, originally, a computer archetecture innovation rather than all computing that is akin to the brain. IBM's Neuromorphic page mentions something similar to Synaptic Transistors. All in all it's just another artificial neuron type deal.
 
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
 
 https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
 
 # MEMRISTORS
+- Neurmorphic computing was originally a term for computer archetecture that used artificial neurons. Memristors are an electrical component that is suited for the analog electrical flow of "information".
 
 https://www.nanowerk.com/memristor.php 
 - Overview of memristors
@@ -63,18 +55,19 @@ https://research.ibm.com/publications/memristor-based-computation-in-memory-arch
 - IBM article on developing memristors
 
 # MACHINE LEARNING
+Neuromorphic computing is, essentially, the physical implementation of neural networks. Neural networks themselves a subset of machine learning.
 
 https://www.ibm.com/think/topics/machine-learning?
 - What is machine learning
-
-https://www.ibm.com/think/topics/machine-learning-types
-- Types of machine learning
 
 https://www.ibm.com/think/topics/neural-networks
 - What is a neural network
 
 https://www.ibm.com/think/topics/deep-learning?
 - Deep learning
+
+https://www.ibm.com/think/topics/machine-learning-types
+- Types of machine learning
 
 # NEUROMORPHIC
 - A neuromorphic chip or computer is any device that uses physical artifical neurons. However, as of recently, this definition has developed cover any analog or neural systems.
@@ -112,17 +105,28 @@ https://arxiv.org/abs/1911.02385
 https://lcsr.jhu.edu/wp-content/uploads/2015/10/Adam-Gropp-nugget.pdf
 - John Hopkins IFAT (2010). Leaky fire and forget Mihalas-Niebur Neuron Model
 
-# AI
-- Definitions of AI
-https://www.britannica.com/technology/artificial-intelligence/
+# CMOS
+- CMOS is a term for the standardized logic gates used in all computers. The term comes up in neuromorphic from time to time but it is not mutually exclusive with neuromorphic engineering. Neuromorphic computers such as Loihi use CMOS in its archetecture.
 
-https://www.nasa.gov/what-is-artificial-intelligence/
+https://www.electronicshub.org/cmos-technology/
+- CMOS overview.
 
-https://openai.com/index/infrastructure-for-deep-learning/
+https://en.wikipedia.org/wiki/CMOS
 
-https://cloud.google.com/learn/what-is-artificial-intelligence
+# CPUs GPUs NPUs and Parallel Processing
+Von Neumann and parallel processing are relevant but not super important for understanding neuromorphic. This is more of a general AI thing.
 
-https://www.ibm.com/think/topics/artificial-intelligence
+https://www.trgdatacenters.com/resource/best-cpu-for-ai/ 
+- Why we use certain types of CPU for Artificial Intelligence
+
+https://parikshapatr.com/solutions/von-neumann-architecture-explained-in-detail
+- Von neumann architecture
+
+https://www.youtube.com/watch?v=SbqXqQ-2ixs
+- Video explaining the CPU
+
+https://en.wikipedia.org/wiki/Neural\_processing\_unit 
+- Wikipedia page on NPUs
 
 # MISC
 
