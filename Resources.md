@@ -8,12 +8,8 @@ Ideally you should only to read the first two resources to get an understanding 
 
 https://www.ibm.com/think/topics/artificial-intelligence
 - The best introduction page to AI among these.
-  
-https://www.britannica.com/technology/artificial-intelligence/
 
 https://www.nasa.gov/what-is-artificial-intelligence/
-
-https://openai.com/index/infrastructure-for-deep-learning/
 
 https://cloud.google.com/learn/what-is-artificial-intelligence
 
@@ -42,13 +38,16 @@ https://www.nature.com/articles/s41586-024-08253-8
 - Neuromorphic at scale
 
 https://www.intel.com/content/www/us/en/research/neuromorphic-computing-loihi-2-technology-brief.html 
-- Intel's loihi chip is a neuromorphic computer. Though it uses "neurocores" which are presumably a processor, these processors fufill the role of a physical artifical neuron and the software involved a form of neural network.
-
-https://www.nature.com/articles/s41699-024-00509-1/figures/1
-- (figure of neuromemristive system)
+- Intel's loihi chip is an example of a neuromorphic computer. 
 
 https://open-neuromorphic.org/blog/truenorth-deep-dive-ibm-neuromorphic-chip-design/ 
 - IBM Truenorth article
+
+https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00631 
+- 2D dimensional materials for synaptic transistors/memristors (Mark C. Hersam)
+
+https://www.nature.com/articles/s41699-024-00509-1/figures/1
+- (figure of neuromemristive system)
 
 https://www.nature.com/articles/s41467-025-60818-x
 - ("Experimental demonstration of third-order memristor-based artificial sensory nervous system for neuro-inspired robotics)
@@ -58,9 +57,6 @@ https://www.researchgate.net/figure/Evolution-of-neuromorphic-IC-architecture-fr
 
 https://www.mdpi.com/2079-9268/15/2/16 
 - Spintronic memristive components
-
-https://pubs.acs.org/doi/10.1021/acs.chemrev.4c00631 
-- 2D dimensional materials for synaptic transistors/memristors (Mersham)
 
 https://arxiv.org/abs/1911.02385 
 - Brief segment on SpiNNaker 2 (similar to IBM Truenorth)
