@@ -9,6 +9,9 @@ Ideally you should only to read the first two resources to get an understanding 
 https://www.ibm.com/think/topics/artificial-intelligence
 - The best introduction page to AI among these.
 
+https://www.ibm.com/think/topics/ai-model
+- Explains what an AI model is.
+
 https://www.nasa.gov/what-is-artificial-intelligence/
 
 https://cloud.google.com/learn/what-is-artificial-intelligence
