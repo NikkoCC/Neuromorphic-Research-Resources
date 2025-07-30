@@ -70,11 +70,14 @@ https://lcsr.jhu.edu/wp-content/uploads/2015/10/Adam-Gropp-nugget.pdf
 # Electrical Engineering + Analog and Digital
 - There are several small things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
 
-https://bbkcollege.co.in/online/attendence/classnotes/files/1589204402.pdf
+https://educatecomputer.com/what-is-a-digital-signal/
 - What are digital signals?
 
 https://educatecomputer.com/what-is-analog-signal/
 - What are analog signals?
+
+https://educatecomputer.com/difference-between-analog-and-digital-signals/
+- What is the difference between analog and digital signals?
 
 https://startingelectronics.org/what-is-a-transistor/#what-does-a-transistor-do
 - Relevant example of an electrical component. What is a transistor?
