@@ -118,6 +118,9 @@ https://en.wikipedia.org/wiki/CMOS
 # CPUs GPUs NPUs and Parallel Processing
 Von Neumann and parallel processing are relevant but not super important for understanding neuromorphic. This is more of a general AI thing.
 
+https://www.ibm.com/think/topics/parallel-computing
+- What is parallel (and serial) computing?
+
 https://www.trgdatacenters.com/resource/best-cpu-for-ai/ 
 - Why we use certain types of CPU for Artificial Intelligence
 
