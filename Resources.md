@@ -4,7 +4,7 @@ Presented in the order I'd recommend learning about the topic of neuromorphic. E
 Ideally you should only to read the first two resources to get an understanding of that topic and moving on.
 
 # AI
-- AI is a massive field. Ai is a superset of machine learning. Machine learning is a superset of neural networks. So on and so forth. A good understanding of AI predicates a good understanding of neuromorphic.
+AI is a massive field. Ai is a superset of machine learning. Machine learning is a superset of neural networks. So on and so forth. A good understanding of AI predicates a good understanding of neuromorphic.
 
 https://www.ibm.com/think/topics/artificial-intelligence
 - The best introduction page to AI among these.
@@ -32,7 +32,7 @@ https://www.ibm.com/think/topics/machine-learning-types
 - Types of machine learning
 
 # NEUROMORPHIC
-- A neuromorphic chip or computer is any device that uses physical artifical neurons. However, as of recently, this definition has developed cover any analog or neural systems.
+A neuromorphic chip or computer is any device that uses physical artifical neurons. However, as of recently, this definition has developed cover any analog or neural systems.
 
 https://www.ibm.com/think/topics/neuromorphic-computing
 - The best overview of neuromorphic, IMO.
@@ -68,7 +68,7 @@ https://lcsr.jhu.edu/wp-content/uploads/2015/10/Adam-Gropp-nugget.pdf
 - John Hopkins IFAT (2010). Leaky fire and forget Mihalas-Niebur Neuron Model
 
 # Electrical Engineering + Analog and Digital
-- There are several small things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
+There are several things in electrical engineering that enhances your understanding of neuromorphic. Any electrical component, memristors and synaptic transistors for example, that are analog rather than digital, are useful in neuromorphic archetecture. An understanding of digital and analog empowers your understanding of artificial neurons.
 
 https://educatecomputer.com/what-is-a-digital-signal/
 - What are digital signals?
@@ -108,7 +108,7 @@ https://research.ibm.com/publications/memristor-based-computation-in-memory-arch
 - IBM article on developing memristors
 
 # CMOS
-- CMOS is a term for the standardized logic gates used in all computers. The term comes up in neuromorphic from time to time but it is not mutually exclusive with neuromorphic engineering. Neuromorphic computers such as Loihi use CMOS in its archetecture.
+CMOS is a term for the standardized logic gates used in all computers. The term comes up in neuromorphic from time to time but it is not mutually exclusive with neuromorphic engineering. Neuromorphic computers such as Loihi use CMOS in its archetecture.
 
 https://www.electronicshub.org/cmos-technology/
 - CMOS overview.
