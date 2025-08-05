@@ -88,8 +88,11 @@ https://www.britannica.com/technology/transistor
 https://startingelectronics.org/transistor-history/#transistor-history-basics-what-is-a-transistor
 - Relevant example of an electrical component. The history of transistors.
 
-# SYNAPTIC TRANSISTORS
-- This is one of Hersam's developmental focuses. Neuromorphic is, originally, a computer archetecture innovation rather than all computing that is akin to the brain. IBM's Neuromorphic page mentions something similar to Synaptic Transistors. All in all it's just another artificial neuron type deal.
+# SYNAPTIC TRANSISTORS / MEMTRANSISTORS
+This is one of Hersam's developmental focuses. Neuromorphic is, originally, a computer archetecture innovation rather than all computing that is akin to the brain. IBM's Neuromorphic page mentions something similar to Synaptic Transistors. All in all it's just another artificial neuron type deal.
+
+https://www.nanowerk.com/nanotechnology-news/newsid=49473.php
+- Hersam related memtransistor stuff.
 
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
 
