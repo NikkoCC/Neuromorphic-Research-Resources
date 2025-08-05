@@ -94,6 +94,9 @@ This is one of Hersam's developmental focuses. Neuromorphic is, originally, a co
 https://www.nanowerk.com/nanotechnology-news/newsid=49473.php
 - Hersam related memtransistor stuff.
 
+https://www.nanowerk.com/nanotechnology-news2/newsid=57897.php
+- Hersam/Harvard related synaptic transistor stuff.
+
 https://seas.harvard.edu/news/2013/11/synaptic-transistor-learns-while-it-computes
 
 https://www.mccormick.northwestern.edu/news/articles/2023/12/new-brain-like-transistor-mimics-human-intelligence/
